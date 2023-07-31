@@ -4,8 +4,8 @@ Aprende a crear un menú responsivo utilizando HTML, CSS puro (nativo) y JavaScr
 
 <hr/>
 
-🔴 *** HOSTING RECOMENDADO *** 
-Hostinger: https://www.hostinger.com/uskokrum2010
+🔴 *** HOSTING RECOMENDADO ***<br/>
+Hostinger: https://www.hostinger.com/uskokrum2010<br/>
 ¡Usa el código USKOKRUM2010 para un buen descuento!
 
 <hr/>
